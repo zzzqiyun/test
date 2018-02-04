@@ -1,5 +1,6 @@
 # Welcome to visit
 
 ```python
-print('Hello world')
+def hi():
+  print('Hello world')
 ```
